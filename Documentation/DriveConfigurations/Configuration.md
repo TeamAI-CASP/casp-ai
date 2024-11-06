@@ -45,7 +45,7 @@ To create a new configuration:
 5. Choose a **Keyword Model** that matches your needs (e.g., `sentence-transformer/all-MiniLM-L6-v2`).
 6. Click **Save** to add the new configuration to the list.
 
-![Configuration Screenshot](../images/Drives/Picture1.png)
+![Configuration Screenshot](../images/Drives/Picture%201.png)
 
 ---
 
